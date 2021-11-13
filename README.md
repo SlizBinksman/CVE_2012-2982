@@ -10,7 +10,7 @@ https://nvd.nist.gov/vuln/detail/CVE-2012-2982
 https://www.kb.cert.org/vuls/id/788478  
 
 Metasploit:  
-https://www.rapid7.com/db/modules/exploit/unix/webapp/webmin_show_cgi_exec/
+https://www.rapid7.com/db/modules/exploit/unix/webapp/webmin_show_cgi_exec/  
 https://github.com/rapid7/metasploit-framework/blob/master//modules/exploits/unix/webapp/webmin_show_cgi_exec.rb  
 
 MSF Author:  
